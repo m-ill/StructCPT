@@ -1,0 +1,10 @@
+transformers==4.35.2
+torch
+sentence-transformers==2.2.2
+faiss-cpu
+konlpy
+textract
+PyPDF2
+tqdm
+scikit-learn
+mysql-connector-python
